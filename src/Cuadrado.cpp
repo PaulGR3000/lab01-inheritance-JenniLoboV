@@ -1,7 +1,7 @@
 //
 // Created by Jennifer Lobo on 19/3/2022.
 //
-
+//Eres para mi, para mi...
 #include "Cuadrado.h"
 Cuadrado::~Cuadrado(){cout<<"~Cuadrado()"<<endl;}
 Cuadrado::Cuadrado(){cout<<"Cuadrado()"<<endl;}
